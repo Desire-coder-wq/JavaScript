@@ -1,0 +1,17 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+.card img {
+  height: 250px;
+  object-fit: cover;
+}
+
+/* Dropdown hover effect */
+.navbar .dropdown:hover .dropdown-menu {
+  display: block;
+  margin-top: 0;
+}
+.dropdown-menu {
+  margin-top: 0;
+}
